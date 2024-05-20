@@ -19,4 +19,26 @@ HIERARCHICAL CLUSTERING
 
 DBSCAN
 
+PCA
+
+Association Rules
+
+Recommendation System
+
+EDA2
+
+Random Forest
+
+LGBM & XGBM
+
+KNN
+
+SVM
+
+Neural Networks
+
+Time series
+
+Naive Bayes & Text Mining 
+
 
